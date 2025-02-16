@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
 ## 🚀 Overview
-cybersecurity support tools for offensive attacks
+This repository contains various cybersecurity tools for penetration testing and security assessments. These tools are intended for ethical use only and should be employed responsibly.
 
 
 ## 🔧 Installation
@@ -25,12 +25,8 @@ This project is licensed under the **Apache 2.0 License**. See the [LICENSE](LIC
    ...
    (Full license text here: https://www.apache.org/licenses/LICENSE-2.0)
 
-
-
-## Overview
-This repository contains various cybersecurity tools for penetration testing and security assessments. These tools are intended for ethical use only and should be employed responsibly.
-
 ---
+```
 
 ## 1. MAC Address Changer
 A MAC Address Changer allows users to modify the MAC address of their device.
