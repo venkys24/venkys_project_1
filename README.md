@@ -1,7 +1,31 @@
-# venkys_project_1
+# 📌 venkys_project_1
+
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+
+## 🚀 Overview
 cybersecurity support tools for offensive attacks
 
-# Cybersecurity Support Tools for Offensive Attacks
+
+## 🔧 Installation
+```sh
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
+
+
+## 📜 License
+This project is licensed under the **Apache 2.0 License**. See the [LICENSE](LICENSE) file for details.
+
+```
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+   ...
+   (Full license text here: https://www.apache.org/licenses/LICENSE-2.0)
+
+
 
 ## Overview
 This repository contains various cybersecurity tools for penetration testing and security assessments. These tools are intended for ethical use only and should be employed responsibly.
