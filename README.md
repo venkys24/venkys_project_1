@@ -27,6 +27,11 @@ eth0 = preferred interface for changing mac
 00:11:22:33:44:55 = new mac address
 
 
+
+
+
+
+
 2) ARP SPOOFER- An ARP Spoofer is a tool used to manipulate the Address Resolution Protocol (ARP) to redirect network traffic. It works by sending fake ARP replies to associate a different MAC address with a target’s IP address, effectively intercepting, modifying, or redirecting traffic within a network.This attack is commonly known as ARP Spoofing or ARP Poisoning and is used in Man-in-the-Middle (MITM) attacks.
 
 How ARP Spoofing Works
@@ -63,6 +68,11 @@ THE ARP1.PY FILE CAN BE RUN USING THE FOLLOWING COMMAND ON YOUR KALI VM TERMINAL
 -g 192.168.5.2 = -g implies gateway addr
 
 
+
+
+
+
+
 3) NETWORK SCANNER - A Network Scanner is a tool used to discover, analyze, and monitor devices within a network. It works by scanning the network for active hosts, open ports, services, and vulnerabilities. Network scanners help administrators map network infrastructure, identify security risks, and manage network performance efficiently.
 
 ------Benefits of Network Scanners-----
@@ -86,6 +96,11 @@ Helps prevent unauthorized access and mitigate cybersecurity threats.
 
 THE NETSCAN1.PY FILE CAN BE RUN USING THE FOLLOWING COMMAND ON YOUR KALI VM TERMINAL =  1) python3 netscan1.py
                                                                                         2) 192.168.5.1/24
+
+
+
+
+
 
 
 
@@ -120,6 +135,11 @@ WARNING - MAKE SURE TO MODIFY THE CODE BY SAVING THE PWD.TXT FILE IN A SPECIFIC 
 
 
 
+
+
+
+
+
 5) FORM EXTRACTOR - A Form Extractor is a tool used to automatically identify and extract input fields from web forms, applications, or documents. It works by analyzing the HTML structure, metadata, and form fields to gather information such as text boxes, dropdowns, checkboxes, and hidden fields.Form extractors are commonly used for web automation, penetration testing, and data collection.
 
 ------BENIFITS & USE CASES------
@@ -143,6 +163,11 @@ Improves efficiency in handling large volumes of forms in industries like financ
 THE  FILE CAN BE RUN USING THE FOLLOWING COMMAND ON YOUR KALI VM TERMINAL = 1)python3 vuln_aka-form_extract.py
 
 WARNING - MAKE SURE TO EDIT THE TARGET URL IN THE CODE BEFORE YOU RUN THE CODE TO GET AN ACCURATE RESULT.
+
+
+
+
+
 
 
 
@@ -172,6 +197,11 @@ Useful for finding backdoors, botnets, and unauthorized access points.
 
 THE  FILE CAN BE RUN USING THE FOLLOWING COMMAND ON YOUR KALI VM TERMINAL = 1)PYTHON3 PORT.PY
                                                                             2) 192.168.5.134
+
+
+
+
+
 
 
 
@@ -208,6 +238,11 @@ WARNING - MAKE SURE TO EDIT THE TARGET URL IN THE CODE BEFORE YOU RUN THE CODE T
 
 
 
+
+
+
+
+
 8) PACKET SNIFFER - A Packet Sniffer is a tool used to capture, analyze, and monitor network traffic in real time. It works by intercepting data packets traveling through a network, allowing users to examine the contents, identify issues, and monitor network activity.Packet sniffing is commonly used for network security, troubleshooting, and penetration testing.
 
 
@@ -233,6 +268,11 @@ Helps organizations harden defenses against cyberattacks.
 THE  FILE CAN BE RUN USING THE FOLLOWING COMMAND ON YOUR KALI VM TERMINAL = 1)PYTHON3 PACKETSNIFF1.PY
 
 WARNING - MAKE SURE TO EDIT THE TARGET INTERFACE IN THE CODE BEFORE YOU RUN THE CODE TO GET AN ACCURATE RESULT. ALSO RUN THE ARP SPOOFER CODE FIRST ON THE TARGET DEVICE TO GET A MORE ACCURATE REUSLT 
+
+
+
+
+
 
 
 
@@ -263,6 +303,11 @@ THE  FILE CAN BE RUN USING THE FOLLOWING COMMAND ON YOUR KALI VM TERMINAL = 1)PY
 WARNING - MAKE SURE TO EDIT THE TARGET INTERFACE IN THE CODE BEFORE YOU RUN THE CODE TO GET AN ACCURATE RESULT
 WARNING - ALSO RUN THE ARP SPOOFER CODE FIRST ON THE TARGET DEVICE TO GET A MORE ACCURATE REUSLT 
 WARNING - MAKE SURE TO MODIFY THE CODE BY SAVING THE BLOCKED_DOMAINS.TXT FILE IN A SPECIFIC DIRECTORY AND THEN , ADD THE SAME PATH TO THE CODE IN ORDER FOR THE PROGRAM TO RUN PROPERLY
+
+
+
+
+
 
 
 
@@ -308,6 +353,11 @@ WARNING - ALPHABET SET => abcdefghijklmnopqrstuvwxyz0123456789
 
 
 
+
+
+
+
+
 11) DEAUTHNETICATION ATTACK DETECTOR- A Deauthentication Attack Detector is a tool designed to identify and prevent deauthentication attacks on Wi-Fi networks. These attacks, also known as Wi-Fi deauth attacks, exploit the 802.11 deauthentication frame to forcibly disconnect devices from a network.The detector monitors network traffic for suspicious deauth packets and alerts users or network administrators when an attack is detected.
 
 
@@ -333,6 +383,11 @@ Security researchers use deauth detectors to test the resilience of networks.
 Helps identify weaknesses in Wi-Fi security configurations.
 
 THE  FILE CAN BE RUN USING THE FOLLOWING COMMAND ON YOUR KALI VM TERMINAL = 1)PYTHON3 DEAUTHENTICATION.PY
+
+
+
+
+
 
 
 
