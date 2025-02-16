@@ -8,8 +8,8 @@ This repository contains various cybersecurity tools for penetration testing and
 
 ## 🔧 Installation
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/venkys24/venkys_project_1.git
+cd venkys_project_1
 ```
 
 
